@@ -199,6 +199,7 @@ body {
   text-decoration: none;
   background: url("./Images/PNG/favicon.png") no-repeat center/100%;
   opacity: 0;
+  background-size: 90%;
   transition: 0.7s;
 }
 .link_to_archviz:hover {
